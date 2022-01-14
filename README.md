@@ -1,2 +1,2 @@
 # memory
-Classic memory game but includes difficult colors to play with
+Classic memory game which includes difficult colors to play with
