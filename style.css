@@ -116,8 +116,9 @@ img {
   }
 
   .panel {
-    width: 45px;
-    height: 45px;
+    margin: 3px;
+    width: 50px;
+    height: 50px;
   }
 
   .section {
